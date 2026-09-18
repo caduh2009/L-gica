@@ -1,0 +1,20 @@
+Algoritmo "semnome"
+
+
+Var
+
+nome: caractere
+idade: inteiro
+altura: real
+estudando: logico
+
+Inicio
+
+//inicio da programacaoo.
+
+nome <- "Edson"
+idade <- 16
+altura <- 1.85
+estudando <- verdadeiro
+
+Fimalgoritmo
